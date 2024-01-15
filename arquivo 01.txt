@@ -1,3 +1,5 @@
-## Arquivo alterado
+## Arquivo alterado ##
 
-texte 01
+	// Texte 01 \\
+
+	## Arquivo alterado ##
